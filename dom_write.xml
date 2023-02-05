@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--请不要手工修改配置的值，否则可能产生问题-->
+<selector>
+	<maxButtons>
+		<val>
+			10
+		</val>
+	</maxButtons>
+</selector>

@@ -1,0 +1,6 @@
+-------------------------------------- 
+2019/01/21 ÷‹“ª  0:27:36.16 
+ Traceback (most recent call last): 
+ File ".\Aggre_11_9.py", line 28, in <module> 
+ import images 
+ ImportError: No module named images 
