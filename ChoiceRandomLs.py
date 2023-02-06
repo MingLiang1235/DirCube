@@ -20,7 +20,7 @@ def ReUnitLs(L):
 	t:the last element's index of L
 	output//
 	L[s...t],mean sorted L[s]...L[t]
-	ls: 输出的数组;the output rectangles' data structure List
+	ls: 输出的数组; the output rectangles' data structure List
 	"""
 
 	length = len(L)
