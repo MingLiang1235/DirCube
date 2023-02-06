@@ -13,14 +13,14 @@ import random
 def ReUnitLs(L):
 	""" wrap function.
 	input//
-	L:输入的数组
+	L: 输入的数组
 	w:the rectangle area's width;单元宽度
 	h:the rectangle area's height;单元高度
 	s:the first element's index of L
 	t:the last element's index of L
 	output//
 	L[s...t],mean sorted L[s]...L[t]
-	ls:输出的数组;the output rectangles' data structure List
+	ls: 输出的数组;the output rectangles' data structure List
 	"""
 
 	length = len(L)
